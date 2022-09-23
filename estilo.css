@@ -1,0 +1,105 @@
+body{
+    background-color: aqua;
+    font-family: myFirstFont;
+    src: url(sansation_light.woff);
+    font-size: medium;
+    padding: 0%;
+    margin: auto;
+}
+.center{
+    width: auto;
+    display: flex;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: black;
+}
+img{
+    border-radius: 105%;
+    width: 300px;
+    padding: 50px;
+   margin: 22px;
+   max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  height: 300px;
+  object-fit: contain;
+}
+ul{
+    background: black;
+    color: antiquewhite;
+    
+}
+h1{
+    
+    height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+h2{
+    
+    
+    height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+ul li a{
+    font-family: myFirstFont;
+    src: url(sansation_bold.woff);
+    font-weight: bold;
+    color: azure;
+    padding: 5px;
+    margin: auto;
+    padding: 70px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+    justify-content: center;
+    
+  
+
+}
+.header {
+    background-color: #F1F1F1;
+    text-align: center;
+    padding: 20px;
+  }
+
+  nav li a{
+    
+    text-align:center;
+    padding: 10px;      
+    color: antiquewhite;
+  }
+  h1 {
+    font-size: 60px;
+  }
+  
+  p {
+    font-size: 25px;
+    line-height: 50px;
+  }
+  .fundo img{
+    background-image: url(C:\Users\Programador.carioca\Desktop\Projeto Individual\Imagens\4e34acde-0dae-4d1c-8fe0-cf1e833aab01.jpg);
+    padding: 50px;
+   margin: 22px;
+   max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  height: 300px;
+  object-fit: contain;
+  }
+  form{
+    background-color: black;
+    color: aqua;
+  }
